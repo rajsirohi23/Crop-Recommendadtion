@@ -6,7 +6,7 @@ A Machine Learning-based web application that recommends the most suitable crop 
 
 ## 🚀 Live Demo
 
-🌐 Frontend: https://fintak.netlify.app
+🌐 Frontend: https://crop-recommendadtion.onrender.com
 
 ## 🚀 Features
 
